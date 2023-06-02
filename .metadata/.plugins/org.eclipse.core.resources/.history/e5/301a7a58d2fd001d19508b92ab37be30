@@ -1,0 +1,6 @@
+package com.RabbitMQ1.dto;
+
+public class OrderStatus {
+	
+
+}

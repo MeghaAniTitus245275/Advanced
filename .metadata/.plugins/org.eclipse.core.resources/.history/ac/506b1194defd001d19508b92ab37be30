@@ -1,0 +1,11 @@
+package com.RabbitMQ1.consumer;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class User {
+	
+	@RabbitListener(queues=Messagingconfig.QUEUE)
+	
+
+}

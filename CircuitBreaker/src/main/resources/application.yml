@@ -1,0 +1,10 @@
+
+resilience4j.circuitbreaker:
+  instances:
+    test1service:
+      slidingWindowType: TIME_BASED
+      slidingWindowSize: 10
+      minimumNumberOfCalls: 20
+      failureRateThreshold: 50
+      waitDurationInOpenState: 20s
+      permittedNumberOfCallsInHalfOpenState: 4

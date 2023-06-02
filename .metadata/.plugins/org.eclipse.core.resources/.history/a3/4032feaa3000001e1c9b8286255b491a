@@ -1,0 +1,13 @@
+package com.RabbitMQ1.dto;
+
+public class OrderStatus {
+	
+	public OrderStatus(Order order2, String string, String string2) {
+		// TODO Auto-generated constructor stub
+	}
+	private Order order;
+	private String status;
+	private String message;
+	
+
+}

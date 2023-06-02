@@ -1,0 +1,5 @@
+package com.RabbitMQ1.config;
+
+public class Messagingconfig {
+
+}

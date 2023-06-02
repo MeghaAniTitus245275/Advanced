@@ -1,0 +1,5 @@
+package com.RabbitMQ1.consumer;
+
+public class User {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.RabbitMQ1.producer&apos; to &apos;com.RabbitMQ1.publisher&apos;&#x0D;&#x0A;- Original project: &apos;RabbitMQ-1&apos;&#x0D;&#x0A;- Original element: &apos;RabbitMQ-1/src/main/java/com.RabbitMQ1.producer&apos;&#x0D;&#x0A;- Renamed element: &apos;RabbitMQ-1/src/main/java/com.RabbitMQ1.publisher&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.RabbitMQ1.producer&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.RabbitMQ1.producer" name="com.RabbitMQ1.publisher" qualified="false" references="true" stamp="1685331578389" textual="false" version="1.0"/>
+</session>
